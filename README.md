@@ -1,0 +1,2 @@
+# SeptCohort
+Projects for class
